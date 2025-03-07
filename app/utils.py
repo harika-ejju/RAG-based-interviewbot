@@ -3,7 +3,7 @@ import json
 
 # Gemini API configurations
 GEMINI_API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent"
-GEMINI_API_KEY = "AIzaSyDPFOSdoAXf6FFkFQag9xywTwtYu2apImM"  # Replace with your actual Gemini API key
+GEMINI_API_KEY = "ur_api_key"  # Replace with your actual Gemini API key
 
 import fitz  # PyaMuPDF for extracting text from PDFs
 
